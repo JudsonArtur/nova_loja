@@ -309,7 +309,8 @@
       text-transform: uppercase; line-height: 22px
      }
      .product_item .description p a{
-      color: #484848; 
+      color: #484848;
+      font-size: .93rem;
      }
      .product_item .description p a:hover{
       color: #292f2f; 
